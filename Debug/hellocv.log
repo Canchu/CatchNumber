@@ -1,0 +1,28 @@
+﻿2014/08/18 11:30:50 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\r073ff\documents\visual studio 2010\Projects\hellocv\hellocv\hellocv.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\hellocv.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         すべての出力が最新のものです。
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\hellocv.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CatchNumber.cpp
+         CatchNumber.cpp
+       ManifestResourceCompile:
+         すべての出力が最新のものです。
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\r073ff\documents\visual studio 2010\Projects\hellocv\Debug\hellocv.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\dev\opencv\build\x86\vc10\lib opencv_core249d.lib opencv_imgproc249d.lib opencv_highgui249d.lib opencv_objdetect249d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\hellocv.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\r073ff\documents\visual studio 2010\Projects\hellocv\Debug\hellocv.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\r073ff\documents\visual studio 2010\Projects\hellocv\Debug\hellocv.lib" /MACHINE:X86 Debug\hellocv.exe.embed.manifest.res
+         Debug\CatchNumber.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\hellocv.exe.embed.manifest" /manifest Debug\hellocv.exe.intermediate.manifest
+         すべての出力が最新のものです。
+       LinkEmbedManifest:
+         すべての出力が最新のものです。
+         hellocv.vcxproj -> C:\Users\r073ff\documents\visual studio 2010\Projects\hellocv\Debug\hellocv.exe
+       FinalizeBuildStatus:
+         ファイル "Debug\hellocv.unsuccessfulbuild" を削除しています。
+         "Debug\hellocv.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\r073ff\documents\visual studio 2010\Projects\hellocv\hellocv\hellocv.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:04.78
